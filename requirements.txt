@@ -1,3 +1,4 @@
 pygame
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-matplotlib ipython
+torch
+matplotlib 
+ipython
